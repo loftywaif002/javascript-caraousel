@@ -193,6 +193,7 @@ getData(url) {
     }
     else if (e.keyCode === ENTER) {
       // Show modal here
+      alert('Enter button Pressed')
     }
   }
   
